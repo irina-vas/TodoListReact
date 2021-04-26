@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css2?family=Lato&display=swap);
+
+.button {
+  font-family: 'Lato';
+}
+
+.form {
+    margin: 2rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.input {
+  width: 80%;
+  height: 30px;
+  outline: none;
+  border: none;
+}
+
+.button {
+  background: radial-gradient(circle, rgba(175,194,195,1) 0%, rgba(112,159,157,0.6093023255813954) 100%);
+  height: 30px;
+  border: none;
+  color: #f2f2f2;
+  font-size: 10px;
+  font-weight: 600;
+}
